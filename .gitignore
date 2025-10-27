@@ -1,0 +1,5 @@
+# ignore directories
+etc
+pycache
+
+# ignore files
