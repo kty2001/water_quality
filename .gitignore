@@ -1,5 +1,6 @@
 # ignore directories
 etc
 pycache
+data
 
 # ignore files
