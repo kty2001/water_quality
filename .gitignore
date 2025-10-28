@@ -2,5 +2,6 @@
 etc
 pycache
 data
+point_data
 
 # ignore files
