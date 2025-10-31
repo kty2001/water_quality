@@ -5,3 +5,4 @@ data
 point_data
 
 # ignore files
+*.pth
