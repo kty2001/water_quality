@@ -200,6 +200,7 @@ dependencies:
   - rpds-py=0.22.3=py312h636fa0f_0
   - scikit-learn=1.7.2=py312h9296b3f_0
   - scipy=1.16.0=py312h242c13b_0
+  - seaborn=0.13.2=py312haa95532_3
   - send2trash=1.8.2=py312haa95532_1
   - setuptools=80.9.0=py312haa95532_0
   - sip=6.12.0=py312h706e071_0
